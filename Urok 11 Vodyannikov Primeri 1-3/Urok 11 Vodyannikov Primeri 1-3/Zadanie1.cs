@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -31,7 +31,7 @@ namespace Urok_11_Vodyannikov_Primeri_1_3
             switch (e.KeyChar)
             {
                 case 'G':
-                    { label1.Text = "Введена буква G"; label1.ForeColor = Color.Lime; }
+                    { label1.Text = "Введена бува G"; label1.ForeColor = Color.Lime; }
                     break;
                 case 'g':
                     { label1.Text = "Введена буква g"; label1.ForeColor = Color.Lime; }
