@@ -42,6 +42,9 @@ namespace Urok_11_Vodyannikov_Primeri_1_3
                 case 'п':
                     { label1.Text = "Введена буква п"; label1.ForeColor = Color.Lime; }
                     break;
+                case 'э':
+                    { label1.Text = "Введена буква пэ"; label1.ForeColor = Color.Lime; }
+                    break;
             }
         }
     }
