@@ -16,7 +16,7 @@ namespace Urok_11_Vodyannikov_Primeri_1_3
         {
             InitializeComponent();
         }
-
+        //ggtyhyh
         private void textBox1_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode >= Keys.A && e.KeyCode <= Keys.Z)
@@ -25,7 +25,7 @@ namespace Urok_11_Vodyannikov_Primeri_1_3
             if (e.Alt && e.KeyCode == Keys.E)
             { label1.Text = "Нажата комбинация Alt+E"; label1.ForeColor = Color.Blue; }
         }
-
+        //hrhrh
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
             switch (e.KeyChar)
@@ -36,7 +36,7 @@ namespace Urok_11_Vodyannikov_Primeri_1_3
                 case 'g':
                     { label1.Text = "Введена буква g"; label1.ForeColor = Color.Lime; }
                     break;
-                case 'П':
+                case 'П': //rfhrhrhrhrh
                     { label1.Text = "Введена буква П"; label1.ForeColor = Color.Lime; }
                     break;
                 case 'п':
@@ -48,4 +48,5 @@ namespace Urok_11_Vodyannikov_Primeri_1_3
             }
         }
     }
+    ////rehryh5454yhrtht
 }
