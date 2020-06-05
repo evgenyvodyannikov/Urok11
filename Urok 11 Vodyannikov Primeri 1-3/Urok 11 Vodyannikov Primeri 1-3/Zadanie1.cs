@@ -31,7 +31,7 @@ namespace Urok_11_Vodyannikov_Primeri_1_3
             switch (e.KeyChar)
             {
                 case 'G':
-                    { label1.Text = "Введена бувка G"; label1.ForeColor = Color.Lime; }
+                    { label1.Text = "Введена бувка G1"; label1.ForeColor = Color.Lime; }
                     break;
                 case 'g':
                     { label1.Text = "Введена буква g"; label1.ForeColor = Color.Lime; }
